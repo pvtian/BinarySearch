@@ -1,0 +1,818 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/program/CLion2022/bin/mingw/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.dll.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.dll.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: i386 architecture of input file `C:/MinGW/lib/../lib/crt2.o' is incompatible with i386:x86-64 output
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x34): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x89): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xc0): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xd9): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x10b): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x153): more undefined references to `_signal' follow
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x15f): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x17d): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x199): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1b8): undefined reference to `___dyn_tls_init_callback'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1e4): undefined reference to `_SetUnhandledExceptionFilter@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1ec): undefined reference to `___cpu_features_init'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f1): undefined reference to `__CRT_fenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f9): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x203): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x20d): undefined reference to `__imp___iob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x212): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x221): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x226): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x235): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x23a): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x249): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x24e): undefined reference to `___p__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x254): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x25b): undefined reference to `__pei386_runtime_relocator'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x263): undefined reference to `___main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x268): undefined reference to `___p__environ'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x284): undefined reference to `_main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x28b): undefined reference to `__cexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x293): undefined reference to `_ExitProcess@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2c3): undefined reference to `__CRT_glob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2d7): undefined reference to `___getmainargs'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2ec): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x30c): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x322): undefined reference to `__imp__atexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x332): undefined reference to `__imp___onexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: ertr000001.o:(.rdata+0x0): undefined reference to `_pei386_runtime_relocator'
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/program/CLion2022/bin/mingw/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.dll.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.dll.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: i386 architecture of input file `C:/MinGW/lib/../lib/crt2.o' is incompatible with i386:x86-64 output
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x34): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x89): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xc0): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xd9): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x10b): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x153): more undefined references to `_signal' follow
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x15f): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x17d): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x199): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1b8): undefined reference to `___dyn_tls_init_callback'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1e4): undefined reference to `_SetUnhandledExceptionFilter@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1ec): undefined reference to `___cpu_features_init'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f1): undefined reference to `__CRT_fenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f9): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x203): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x20d): undefined reference to `__imp___iob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x212): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x221): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x226): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x235): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x23a): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x249): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x24e): undefined reference to `___p__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x254): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x25b): undefined reference to `__pei386_runtime_relocator'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x263): undefined reference to `___main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x268): undefined reference to `___p__environ'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x284): undefined reference to `_main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x28b): undefined reference to `__cexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x293): undefined reference to `_ExitProcess@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2c3): undefined reference to `__CRT_glob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2d7): undefined reference to `___getmainargs'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2ec): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x30c): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x322): undefined reference to `__imp__atexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x332): undefined reference to `__imp___onexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: ertr000001.o:(.rdata+0x0): undefined reference to `_pei386_runtime_relocator'
+collect2.exe: error: ld returned 1 exit status
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/Users/Clion/BinarySearch/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/program/CLion2022/bin/ninja/win/x64/ninja.exe cmTC_6b0d1 && [1/2] Building C object CMakeFiles/cmTC_6b0d1.dir/CMakeCCompilerABI.c.obj
+Using built-in specs.
+COLLECT_GCC=D:\program\CLion2022\bin\mingw\bin\gcc.exe
+Target: x86_64-w64-mingw32
+Configured with: ../gcc-11.2.0/configure --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --build=x86_64-alpine-linux-musl --prefix=/win --enable-checking=release --enable-fully-dynamic-string --enable-languages=c,c++ --enable-libatomic --enable-libgomp --enable-libstdcxx-filesystem-ts=yes --enable-libstdcxx-time=yes --enable-seh-exceptions --enable-shared --enable-static --enable-threads=posix --enable-version-specific-runtime-libs --disable-bootstrap --disable-graphite --disable-libada --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-libquadmath --disable-lto --disable-nls --disable-multilib --disable-rpath --disable-symvers --disable-werror --disable-win32-registry --with-gnu-as --with-gnu-ld --with-system-libiconv --with-system-libz --with-gmp=/win/makedepends --with-mpfr=/win/makedepends --with-mpc=/win/makedepends
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 11.2.0 (GCC) 
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_6b0d1.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_6b0d1.dir/'
+ D:/program/CLion2022/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/11.2.0/cc1.exe -quiet -v -iprefix D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/ -D_REENTRANT D:/program/CLion2022/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_6b0d1.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fdiagnostics-color=always -o C:\Users\caole\AppData\Local\Temp\ccQLBUR8.s
+GNU C17 (GCC) version 11.2.0 (x86_64-w64-mingw32)
+	compiled by GNU C version 11.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version none
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "D:/program/CLion2022/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/11.2.0/include"
+ignoring nonexistent directory "/win/include"
+ignoring duplicate directory "D:/program/CLion2022/bin/mingw/lib/gcc/../../include"
+ignoring duplicate directory "D:/program/CLion2022/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"
+ignoring duplicate directory "D:/program/CLion2022/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"
+ignoring nonexistent directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ C:\MinGW\include
+ D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include
+ D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include
+ D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed
+ D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include
+End of search list.
+GNU C17 (GCC) version 11.2.0 (x86_64-w64-mingw32)
+	compiled by GNU C version 11.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version none
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 23424b72d090e8b977a96775bde79257
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_6b0d1.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_6b0d1.dir/'
+ as -v -o CMakeFiles/cmTC_6b0d1.dir/CMakeCCompilerABI.c.obj C:\Users\caole\AppData\Local\Temp\ccQLBUR8.s
+GNU assembler version 2.37 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.37
+COMPILER_PATH=D:/program/CLion2022/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/11.2.0/;D:/program/CLion2022/bin/mingw/bin/../libexec/gcc/
+LIBRARY_PATH=D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/;C:/MinGW/lib/../lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../lib/;C:/MinGW/lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_6b0d1.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_6b0d1.dir/CMakeCCompilerABI.c.'
+[2/2] Linking C executable cmTC_6b0d1.exe
+FAILED: cmTC_6b0d1.exe 
+cmd.exe /C "cd . && D:\program\CLion2022\bin\mingw\bin\gcc.exe  -v CMakeFiles/cmTC_6b0d1.dir/CMakeCCompilerABI.c.obj -o cmTC_6b0d1.exe -Wl,--out-implib,libcmTC_6b0d1.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+Using built-in specs.
+COLLECT_GCC=D:\program\CLion2022\bin\mingw\bin\gcc.exe
+COLLECT_LTO_WRAPPER=D:/program/CLion2022/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/11.2.0/lto-wrapper.exe
+Target: x86_64-w64-mingw32
+Configured with: ../gcc-11.2.0/configure --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --build=x86_64-alpine-linux-musl --prefix=/win --enable-checking=release --enable-fully-dynamic-string --enable-languages=c,c++ --enable-libatomic --enable-libgomp --enable-libstdcxx-filesystem-ts=yes --enable-libstdcxx-time=yes --enable-seh-exceptions --enable-shared --enable-static --enable-threads=posix --enable-version-specific-runtime-libs --disable-bootstrap --disable-graphite --disable-libada --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-libquadmath --disable-lto --disable-nls --disable-multilib --disable-rpath --disable-symvers --disable-werror --disable-win32-registry --with-gnu-as --with-gnu-ld --with-system-libiconv --with-system-libz --with-gmp=/win/makedepends --with-mpfr=/win/makedepends --with-mpc=/win/makedepends
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 11.2.0 (GCC) 
+COMPILER_PATH=D:/program/CLion2022/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/11.2.0/;D:/program/CLion2022/bin/mingw/bin/../libexec/gcc/
+LIBRARY_PATH=D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/;C:/MinGW/lib/../lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../lib/;C:/MinGW/lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_6b0d1.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_6b0d1.'
+ D:/program/CLion2022/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/11.2.0/collect2.exe -m i386pep -Bdynamic -o cmTC_6b0d1.exe C:/MinGW/lib/../lib/crt2.o D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/crtbegin.o -LD:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0 -LD:/program/CLion2022/bin/mingw/bin/../lib/gcc -LC:/MinGW/lib/../lib -LD:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../lib -LC:/MinGW/lib -LD:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib -LD:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../.. CMakeFiles/cmTC_6b0d1.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_6b0d1.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/crtend.o
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.dll.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.dll.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: i386 architecture of input file `C:/MinGW/lib/../lib/crt2.o' is incompatible with i386:x86-64 output
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x34): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x89): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xc0): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xd9): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x10b): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x153): more undefined references to `_signal' follow
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x15f): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x17d): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x199): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1b8): undefined reference to `___dyn_tls_init_callback'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1e4): undefined reference to `_SetUnhandledExceptionFilter@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1ec): undefined reference to `___cpu_features_init'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f1): undefined reference to `__CRT_fenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f9): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x203): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x20d): undefined reference to `__imp___iob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x212): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x221): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x226): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x235): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x23a): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x249): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x24e): undefined reference to `___p__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x254): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x25b): undefined reference to `__pei386_runtime_relocator'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x263): undefined reference to `___main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x268): undefined reference to `___p__environ'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x284): undefined reference to `_main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x28b): undefined reference to `__cexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x293): undefined reference to `_ExitProcess@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2c3): undefined reference to `__CRT_glob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2d7): undefined reference to `___getmainargs'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2ec): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x30c): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x322): undefined reference to `__imp__atexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x332): undefined reference to `__imp___onexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: ertr000001.o:(.rdata+0x0): undefined reference to `_pei386_runtime_relocator'
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/Users/Clion/BinarySearch/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/program/CLion2022/bin/ninja/win/x64/ninja.exe cmTC_b1f49 && [1/2] Building C object CMakeFiles/cmTC_b1f49.dir/testCCompiler.c.obj
+[2/2] Linking C executable cmTC_b1f49.exe
+FAILED: cmTC_b1f49.exe 
+cmd.exe /C "cd . && D:\program\CLion2022\bin\mingw\bin\gcc.exe   CMakeFiles/cmTC_b1f49.dir/testCCompiler.c.obj -o cmTC_b1f49.exe -Wl,--out-implib,libcmTC_b1f49.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libgdi32.a when searching for -lgdi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libgdi32.a when searching for -lgdi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libwinspool.a when searching for -lwinspool
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libwinspool.a when searching for -lwinspool
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libole32.a when searching for -lole32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libole32.a when searching for -lole32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/liboleaut32.a when searching for -loleaut32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\liboleaut32.a when searching for -loleaut32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libuuid.a when searching for -luuid
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libuuid.a when searching for -luuid
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libcomdlg32.a when searching for -lcomdlg32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libcomdlg32.a when searching for -lcomdlg32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.dll.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.dll.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: i386 architecture of input file `C:/MinGW/lib/../lib/crt2.o' is incompatible with i386:x86-64 output
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x34): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x89): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xc0): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xd9): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x10b): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x153): more undefined references to `_signal' follow
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x15f): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x17d): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x199): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1b8): undefined reference to `___dyn_tls_init_callback'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1e4): undefined reference to `_SetUnhandledExceptionFilter@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1ec): undefined reference to `___cpu_features_init'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f1): undefined reference to `__CRT_fenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f9): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x203): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x20d): undefined reference to `__imp___iob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x212): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x221): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x226): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x235): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x23a): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x249): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x24e): undefined reference to `___p__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x254): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x25b): undefined reference to `__pei386_runtime_relocator'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x263): undefined reference to `___main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x268): undefined reference to `___p__environ'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x284): undefined reference to `_main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x28b): undefined reference to `__cexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x293): undefined reference to `_ExitProcess@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2c3): undefined reference to `__CRT_glob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2d7): undefined reference to `___getmainargs'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2ec): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x30c): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x322): undefined reference to `__imp__atexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x332): undefined reference to `__imp___onexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: ertr000001.o:(.rdata+0x0): undefined reference to `_pei386_runtime_relocator'
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/program/CLion2022/bin/mingw/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.dll.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.dll.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: i386 architecture of input file `C:/MinGW/lib/../lib/crt2.o' is incompatible with i386:x86-64 output
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x34): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x89): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xc0): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xd9): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x10b): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x153): more undefined references to `_signal' follow
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x15f): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x17d): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x199): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1b8): undefined reference to `___dyn_tls_init_callback'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1e4): undefined reference to `_SetUnhandledExceptionFilter@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1ec): undefined reference to `___cpu_features_init'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f1): undefined reference to `__CRT_fenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f9): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x203): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x20d): undefined reference to `__imp___iob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x212): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x221): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x226): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x235): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x23a): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x249): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x24e): undefined reference to `___p__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x254): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x25b): undefined reference to `__pei386_runtime_relocator'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x263): undefined reference to `___main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x268): undefined reference to `___p__environ'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x284): undefined reference to `_main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x28b): undefined reference to `__cexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x293): undefined reference to `_ExitProcess@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2c3): undefined reference to `__CRT_glob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2d7): undefined reference to `___getmainargs'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2ec): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x30c): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x322): undefined reference to `__imp__atexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x332): undefined reference to `__imp___onexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: ertr000001.o:(.rdata+0x0): undefined reference to `_pei386_runtime_relocator'
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/program/CLion2022/bin/mingw/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.dll.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.dll.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: i386 architecture of input file `C:/MinGW/lib/../lib/crt2.o' is incompatible with i386:x86-64 output
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x34): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x89): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xc0): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xd9): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x10b): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x153): more undefined references to `_signal' follow
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x15f): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x17d): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x199): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1b8): undefined reference to `___dyn_tls_init_callback'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1e4): undefined reference to `_SetUnhandledExceptionFilter@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1ec): undefined reference to `___cpu_features_init'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f1): undefined reference to `__CRT_fenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f9): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x203): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x20d): undefined reference to `__imp___iob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x212): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x221): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x226): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x235): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x23a): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x249): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x24e): undefined reference to `___p__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x254): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x25b): undefined reference to `__pei386_runtime_relocator'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x263): undefined reference to `___main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x268): undefined reference to `___p__environ'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x284): undefined reference to `_main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x28b): undefined reference to `__cexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x293): undefined reference to `_ExitProcess@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2c3): undefined reference to `__CRT_glob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2d7): undefined reference to `___getmainargs'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2ec): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x30c): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x322): undefined reference to `__imp__atexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x332): undefined reference to `__imp___onexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: ertr000001.o:(.rdata+0x0): undefined reference to `_pei386_runtime_relocator'
+collect2.exe: error: ld returned 1 exit status
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/Users/Clion/BinarySearch/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/program/CLion2022/bin/ninja/win/x64/ninja.exe cmTC_14444 && [1/2] Building C object CMakeFiles/cmTC_14444.dir/CMakeCCompilerABI.c.obj
+Using built-in specs.
+COLLECT_GCC=D:\program\CLion2022\bin\mingw\bin\gcc.exe
+Target: x86_64-w64-mingw32
+Configured with: ../gcc-11.2.0/configure --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --build=x86_64-alpine-linux-musl --prefix=/win --enable-checking=release --enable-fully-dynamic-string --enable-languages=c,c++ --enable-libatomic --enable-libgomp --enable-libstdcxx-filesystem-ts=yes --enable-libstdcxx-time=yes --enable-seh-exceptions --enable-shared --enable-static --enable-threads=posix --enable-version-specific-runtime-libs --disable-bootstrap --disable-graphite --disable-libada --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-libquadmath --disable-lto --disable-nls --disable-multilib --disable-rpath --disable-symvers --disable-werror --disable-win32-registry --with-gnu-as --with-gnu-ld --with-system-libiconv --with-system-libz --with-gmp=/win/makedepends --with-mpfr=/win/makedepends --with-mpc=/win/makedepends
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 11.2.0 (GCC) 
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_14444.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_14444.dir/'
+ D:/program/CLion2022/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/11.2.0/cc1.exe -quiet -v -iprefix D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/ -D_REENTRANT D:/program/CLion2022/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_14444.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fdiagnostics-color=always -o C:\Users\caole\AppData\Local\Temp\ccRMom2x.s
+GNU C17 (GCC) version 11.2.0 (x86_64-w64-mingw32)
+	compiled by GNU C version 11.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version none
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "D:/program/CLion2022/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/11.2.0/include"
+ignoring nonexistent directory "/win/include"
+ignoring duplicate directory "D:/program/CLion2022/bin/mingw/lib/gcc/../../include"
+ignoring duplicate directory "D:/program/CLion2022/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"
+ignoring duplicate directory "D:/program/CLion2022/bin/mingw/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"
+ignoring nonexistent directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ C:\MinGW\include
+ D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include
+ D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include
+ D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed
+ D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include
+End of search list.
+GNU C17 (GCC) version 11.2.0 (x86_64-w64-mingw32)
+	compiled by GNU C version 11.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version none
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 23424b72d090e8b977a96775bde79257
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_14444.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_14444.dir/'
+ as -v -o CMakeFiles/cmTC_14444.dir/CMakeCCompilerABI.c.obj C:\Users\caole\AppData\Local\Temp\ccRMom2x.s
+GNU assembler version 2.37 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.37
+COMPILER_PATH=D:/program/CLion2022/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/11.2.0/;D:/program/CLion2022/bin/mingw/bin/../libexec/gcc/
+LIBRARY_PATH=D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/;C:/MinGW/lib/../lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../lib/;C:/MinGW/lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_14444.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_14444.dir/CMakeCCompilerABI.c.'
+[2/2] Linking C executable cmTC_14444.exe
+FAILED: cmTC_14444.exe 
+cmd.exe /C "cd . && D:\program\CLion2022\bin\mingw\bin\gcc.exe  -v CMakeFiles/cmTC_14444.dir/CMakeCCompilerABI.c.obj -o cmTC_14444.exe -Wl,--out-implib,libcmTC_14444.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+Using built-in specs.
+COLLECT_GCC=D:\program\CLion2022\bin\mingw\bin\gcc.exe
+COLLECT_LTO_WRAPPER=D:/program/CLion2022/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/11.2.0/lto-wrapper.exe
+Target: x86_64-w64-mingw32
+Configured with: ../gcc-11.2.0/configure --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --build=x86_64-alpine-linux-musl --prefix=/win --enable-checking=release --enable-fully-dynamic-string --enable-languages=c,c++ --enable-libatomic --enable-libgomp --enable-libstdcxx-filesystem-ts=yes --enable-libstdcxx-time=yes --enable-seh-exceptions --enable-shared --enable-static --enable-threads=posix --enable-version-specific-runtime-libs --disable-bootstrap --disable-graphite --disable-libada --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-libquadmath --disable-lto --disable-nls --disable-multilib --disable-rpath --disable-symvers --disable-werror --disable-win32-registry --with-gnu-as --with-gnu-ld --with-system-libiconv --with-system-libz --with-gmp=/win/makedepends --with-mpfr=/win/makedepends --with-mpc=/win/makedepends
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 11.2.0 (GCC) 
+COMPILER_PATH=D:/program/CLion2022/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/11.2.0/;D:/program/CLion2022/bin/mingw/bin/../libexec/gcc/
+LIBRARY_PATH=D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/;C:/MinGW/lib/../lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../lib/;C:/MinGW/lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/;D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_14444.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_14444.'
+ D:/program/CLion2022/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/11.2.0/collect2.exe -m i386pep -Bdynamic -o cmTC_14444.exe C:/MinGW/lib/../lib/crt2.o D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/crtbegin.o -LD:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0 -LD:/program/CLion2022/bin/mingw/bin/../lib/gcc -LC:/MinGW/lib/../lib -LD:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../lib -LC:/MinGW/lib -LD:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib -LD:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../.. CMakeFiles/cmTC_14444.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_14444.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o D:/program/CLion2022/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/crtend.o
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.dll.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.dll.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: i386 architecture of input file `C:/MinGW/lib/../lib/crt2.o' is incompatible with i386:x86-64 output
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x34): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x89): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xc0): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xd9): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x10b): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x153): more undefined references to `_signal' follow
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x15f): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x17d): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x199): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1b8): undefined reference to `___dyn_tls_init_callback'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1e4): undefined reference to `_SetUnhandledExceptionFilter@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1ec): undefined reference to `___cpu_features_init'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f1): undefined reference to `__CRT_fenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f9): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x203): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x20d): undefined reference to `__imp___iob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x212): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x221): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x226): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x235): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x23a): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x249): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x24e): undefined reference to `___p__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x254): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x25b): undefined reference to `__pei386_runtime_relocator'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x263): undefined reference to `___main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x268): undefined reference to `___p__environ'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x284): undefined reference to `_main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x28b): undefined reference to `__cexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x293): undefined reference to `_ExitProcess@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2c3): undefined reference to `__CRT_glob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2d7): undefined reference to `___getmainargs'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2ec): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x30c): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x322): undefined reference to `__imp__atexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x332): undefined reference to `__imp___onexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: ertr000001.o:(.rdata+0x0): undefined reference to `_pei386_runtime_relocator'
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/Users/Clion/BinarySearch/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/program/CLion2022/bin/ninja/win/x64/ninja.exe cmTC_96d16 && [1/2] Building C object CMakeFiles/cmTC_96d16.dir/testCCompiler.c.obj
+[2/2] Linking C executable cmTC_96d16.exe
+FAILED: cmTC_96d16.exe 
+cmd.exe /C "cd . && D:\program\CLion2022\bin\mingw\bin\gcc.exe   CMakeFiles/cmTC_96d16.dir/testCCompiler.c.obj -o cmTC_96d16.exe -Wl,--out-implib,libcmTC_96d16.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libgdi32.a when searching for -lgdi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libgdi32.a when searching for -lgdi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libwinspool.a when searching for -lwinspool
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libwinspool.a when searching for -lwinspool
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libole32.a when searching for -lole32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libole32.a when searching for -lole32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/liboleaut32.a when searching for -loleaut32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\liboleaut32.a when searching for -loleaut32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libuuid.a when searching for -luuid
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libuuid.a when searching for -luuid
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libcomdlg32.a when searching for -lcomdlg32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libcomdlg32.a when searching for -lcomdlg32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.dll.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libpthread.a when searching for -lpthread
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libadvapi32.a when searching for -ladvapi32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libshell32.a when searching for -lshell32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libuser32.a when searching for -luser32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.dll.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libiconv.a when searching for -liconv
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingw32.a when searching for -lmingw32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmoldname.a when searching for -lmoldname
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.dll.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmingwex.a when searching for -lmingwex
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib/libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: skipping incompatible C:/MinGW/lib/../lib\libkernel32.a when searching for -lkernel32
+D:\program\CLion2022\bin\mingw\bin/ld.exe: i386 architecture of input file `C:/MinGW/lib/../lib/crt2.o' is incompatible with i386:x86-64 output
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x34): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x89): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xc0): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0xd9): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x10b): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x153): more undefined references to `_signal' follow
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x15f): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x17d): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x199): undefined reference to `_signal'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1b8): undefined reference to `___dyn_tls_init_callback'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1e4): undefined reference to `_SetUnhandledExceptionFilter@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1ec): undefined reference to `___cpu_features_init'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f1): undefined reference to `__CRT_fenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x1f9): undefined reference to `_fesetenv'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x203): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x20d): undefined reference to `__imp___iob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x212): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x221): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x226): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x235): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x23a): undefined reference to `__CRT_fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x249): undefined reference to `__setmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x24e): undefined reference to `___p__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x254): undefined reference to `__fmode'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x25b): undefined reference to `__pei386_runtime_relocator'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x263): undefined reference to `___main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x268): undefined reference to `___p__environ'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x284): undefined reference to `_main'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x28b): undefined reference to `__cexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x293): undefined reference to `_ExitProcess@4'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2c3): undefined reference to `__CRT_glob'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2d7): undefined reference to `___getmainargs'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x2ec): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x30c): undefined reference to `__imp____set_app_type'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x322): undefined reference to `__imp__atexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: C:/MinGW/lib/../lib/crt2.o:(.text+0x332): undefined reference to `__imp___onexit'
+D:\program\CLion2022\bin\mingw\bin/ld.exe: ertr000001.o:(.rdata+0x0): undefined reference to `_pei386_runtime_relocator'
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+
