@@ -33,10 +33,12 @@ void binarySearch(T arr[], int l, int r, T target) {
 }
 
 template<typename T>
-int BinarySearchX(T arr[], T target) {
-    int l = 0, n = sizeof(arr[0]);
+int BinarySearchX(T *arr, T target) {
+    int l = 0; //, s = sizeof(*arr[0])
 
-
+    cout << endl << "*arr:" << *arr << endl;
+    //auto n = std::end(arr) - std::begin(arr);
+    int n = 0;
     if (l > n) {
         //nothing to do.
         return -1;
@@ -48,7 +50,7 @@ int BinarySearchX(T arr[], T target) {
 template<typename T>
 void shellSort(T arr[], int step) {
     for (int i = 0; i < step; i++) {
-        for (int j = i + step; j < (end(arr) - begin(arr)); j += step) {
+        for (int j = i + step; j < (std::end(arr) - std::begin(arr)); j += step) {
             T cur = arr[j];
             T k = j - step;
             while (k > -1) {
@@ -63,7 +65,7 @@ void shellSort(T arr[], int step) {
         }
     }
     if (step > 1) {
-        shellSort(arr, step / 2);
+        shellSort<T>(arr, step / 2);
     }
 }
 
@@ -83,7 +85,7 @@ int main() {
     }
     cout << endl;
 
-    cout << "The string array size:" << BinarySearchX<string>(sarr, "is") << endl;
+    cout << "The sarr array size:" << (end(sarr)-begin(sarr)) << endl;
 
     std::cout << "Hello, World!" << std::endl;
     return 0;
