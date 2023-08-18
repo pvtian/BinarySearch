@@ -33,12 +33,16 @@ void binarySearch(T arr[], int l, int r, T target) {
 }
 
 template<typename T>
-int BinarySearchX(T *arr, T target) {
+int BinarySearchX(T arr[], int n, const T target) {
     int l = 0; //, s = sizeof(*arr[0])
 
-    cout << endl << "*arr:" << *arr << endl;
-    //auto n = std::end(arr) - std::begin(arr);
-    int n = 0;
+
+//    string s1[10],s2[30];
+//    int n = std::end(s1) - std::begin(s1);
+
+    //int n = sizeof(arr)/sizeof(arr[0]); 在这里面没有办法得到 数组的元素个数；
+
+    //int n = 0;
     if (l > n) {
         //nothing to do.
         return -1;
@@ -85,7 +89,13 @@ int main() {
     }
     cout << endl;
 
-    cout << "The sarr array size:" << (end(sarr)-begin(sarr)) << endl;
+    cout << "The sarr array size:" << (end(sarr) - begin(sarr)) << endl;
+
+    auto p = &data;
+
+    int count = end(data) - begin(data);
+    cout << "BinarySearchX return value:" << BinarySearchX<int>(data, count, 5) << endl;
+
 
     std::cout << "Hello, World!" << std::endl;
     return 0;
